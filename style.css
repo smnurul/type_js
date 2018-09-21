@@ -1,0 +1,87 @@
+
+body{
+    
+    padding:0px;
+    margin:0px;
+}
+.test_animation-type {
+  font-size: 30px;
+  text-align: center;
+  text-transform: capitalize;
+  height: 500px;
+}
+.test_animation-type h1 {
+  color: #fff;
+  font-size: 46px;
+  font-weight: 700;
+  padding-top: 200px;
+}
+.test_animation-type p {
+  color: #e9f6eb;
+  font-size: 14px;
+  letter-spacing: 0;
+}
+ul.list-social li {
+  display: inline-block;
+}
+
+
+ul.list-social li a i {
+  color: #fff;
+  font-size: 19px;
+  width: 26px;
+  height: 26px;
+  line-height: 26px;
+  background: red;
+  border-radius: 50%;
+  text-align: center;
+}
+
+
+
+/***************************************************************************************
+*RESPONSIVE CSS FROOM HERE*
+****************************************************************************************/
+
+/*EXTRA LARGE DESKTOP 1920px*/
+
+@media only screen and (min-width:1920px){
+    
+    
+}
+
+/*LARGE DESKTOP 1366px*/
+
+@media only screen and (min-width:1200px)and (max-width:1919px){
+    
+    
+}
+
+/*medium DESKTOP 990px-1124px*/
+
+@media only screen and (min-width:992px)and (max-width:1199px){
+    
+    
+}
+
+/************ TABLET 768px**************/
+
+@media only screen and (min-width:768px)and (max-width:991px){
+    
+    
+}
+/*****all mobile device******/
+
+@media only screen and(max-width:767px){
+    
+    
+}
+/****wide screen mobile device******/
+
+@media only screen and (min-width:480px)(max-width:767px){
+    
+    
+}
+
+
+
